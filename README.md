@@ -47,7 +47,14 @@ method takes in an optional string argument containing either a character or a
 set of characters that will be inserted between each array element, as they are
 assembled into a string.
 
-For example, calling `.join` with *no* argument will create a string out of the
+For example, callin
+
+
+
+
+
+
+g `.join` with *no* argument will create a string out of the
 array's elements by placing each one directly adjacent to the next one:
 
 ```ruby
